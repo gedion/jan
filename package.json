@@ -1,6 +1,5 @@
 {
   "name": "jan-app",
-  "private": true,
   "workspaces": {
     "packages": [
       "uikit",
